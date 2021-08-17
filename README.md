@@ -12,6 +12,7 @@
 * TestNG - 7.4.0
 * WebdriverManager - 4.4.3
 * jsonSimple - 1.1.1
+* Java - 8 or more
 
 ### Project Implementation
 
